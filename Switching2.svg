@@ -21,12 +21,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.060866812"
-     inkscape:cx="2694.4076"
-     inkscape:cy="616.0993"
+     inkscape:zoom="0.12173362"
+     inkscape:cx="3943.0355"
+     inkscape:cy="3059.9598"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g783"
@@ -35,6 +35,30 @@
      id="desc1">Switching2.dxf - scale = 1.823139, origin = (0.000000, 0.000000), method = manual</desc>
   <defs
      id="defs4">
+    <rect
+       x="883.63934"
+       y="3225.9734"
+       width="37.030079"
+       height="104.55552"
+       id="rect14" />
+    <rect
+       x="2446.8895"
+       y="779.08382"
+       width="81.320958"
+       height="71.881918"
+       id="rect13" />
+    <rect
+       x="3328.3507"
+       y="548.91647"
+       width="111.09024"
+       height="67.525439"
+       id="rect12" />
+    <rect
+       x="4141.5602"
+       y="307.85791"
+       width="383.37023"
+       height="87.129598"
+       id="rect11" />
     <marker
        id="DistanceX"
        orient="auto"
@@ -115,8 +139,9 @@
        id="path17" />
     <path
        style="fill:none;stroke:#000000"
-       d="m 3865.8853,406.77708 -5.67,1.89"
-       id="path30" />
+       d="m 3878.4102,402.96516 -18.1949,5.70192"
+       id="path30"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000"
        d="m 4763.7953,402.99708 h -68.06"
@@ -183,10 +208,6 @@
        id="path46" />
     <path
        style="fill:none;stroke:#000000"
-       d="m 3865.8853,406.77708 -5.67,1.89"
-       id="path60" />
-    <path
-       style="fill:none;stroke:#000000"
        d="m 4763.7953,402.99708 h -68.06"
        id="path61" />
     <path
@@ -195,16 +216,8 @@
        id="path74" />
     <path
        style="fill:none;stroke:#000000"
-       d="m 3865.8853,406.77708 -5.67,1.89"
-       id="path90" />
-    <path
-       style="fill:none;stroke:#000000"
        d="m 3894.2453,516.41702 -5.67,1.89"
        id="path104" />
-    <path
-       style="fill:none;stroke:#000000"
-       d="m 3865.8853,406.77708 -5.67,1.89"
-       id="path120" />
     <path
        style="fill:none;stroke:#000000"
        d="m 3894.2453,516.41702 -27.8154,7.6986"
@@ -561,7 +574,8 @@
     <path
        style="fill:none;stroke:#000000"
        d="m 2113.5553,875.57642 -32.13,9.45001"
-       id="path441" />
+       id="path441"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000"
        d="m 2081.4253,885.02643 -30.25,9.45001"
@@ -1173,6 +1187,11 @@
        id="path611" />
     <path
        style="fill:none;stroke:#000000"
+       d="M 2986.8138,643.05566 2113.5694,875.71778"
+       id="path611-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000"
        d="m 826.24943,2947.3655 v 903.57"
        id="path612" />
     <path
@@ -1343,5 +1362,9 @@
        style="fill:none;stroke:#000000"
        d="m 1060.6491,6034.2613 h 113.4204"
        id="path755" />
+    <path
+       style="fill:#000000"
+       d="M 2988.0813,643.82371 2883.3444,730.0776"
+       id="path11" />
   </g>
 </svg>
